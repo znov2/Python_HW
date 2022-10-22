@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/znov2/RedRover.school.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/aigulmustafina/Python_05_UI_testing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$" />
